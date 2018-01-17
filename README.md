@@ -1,7 +1,6 @@
 [![Build Status][ci-img]][ci] [![Released Version][maven-img]][maven]
 
 # OpenTracing CDI Instrumentation
-
 This library provides instrumentation for [Contexts and Dependency Injection (CDI)](https://jcp.org/en/jsr/detail?id=299)
 modules in Java EE applications.
 
