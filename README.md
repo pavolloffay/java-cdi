@@ -39,9 +39,9 @@ it's possible to get the request's `SpanContext` via CDI:
 SpanContext spanContext;
 ```
 
-### Injecting an `Scope`
+### Injecting a `Scope`
 
-This integration also exposes a producer that allows the injection of an `Scope`:
+This integration also exposes a producer that allows the injection of a `Scope`:
 
 ```java
 @Inject
